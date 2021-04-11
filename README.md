@@ -2,6 +2,8 @@
 
 ***Aha ha*** is a species of Australian wasp named by the entemologist Arnold Menke in 1977 as a joke. (From Wikipedia)
 
+_Aha ha_ is **not** the scientific name of a walrus.
+
 -----
 
 ## Welcome to GitHub Pages
